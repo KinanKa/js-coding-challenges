@@ -8,8 +8,11 @@
     "jest": {
         "testURL": "http://localhost/"
     },
-    "script": {
+    "scripts": {
         "test": "jest"
     },
-    "devDependencies": {}
+    "devDependencies": {
+        "jest": "^27.2.0"
+    },
+    "dependencies": {}
 }

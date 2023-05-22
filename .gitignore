@@ -1,4 +1,4 @@
 # Estas líneas indican a git que archivos o carpetas
 # debe ignorar.
 package-lock.json
-node-modules/
+node_modules/
