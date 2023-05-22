@@ -1,0 +1,15 @@
+{
+    "name": "js-coding-challenges",
+    "version": "1.0.0",
+    "description": "Es un repo con una serie de ejercicios de lógica con sus respectivos test",
+    "main": "index.js",
+    "author": "Kinan",
+    "license": "MIT",
+    "jest": {
+        "testURL": "http://localhost/"
+    },
+    "script": {
+        "test": "jest"
+    },
+    "devDependencies": {}
+}
